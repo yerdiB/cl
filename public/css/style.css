@@ -1,0 +1,49 @@
+
+body {
+    background-color: #E8ECEF;
+}
+main{
+    min-height: 70vh;
+    min-width: 100vh;
+}
+.centered {
+    padding-top: 10vh;
+    text-align: center;
+}
+
+.secret-text {
+    text-align: center;
+    font-size: 2rem;
+    color: #fff;
+    background-color: #000;
+}
+footer{
+    background: rgba(0,0,0,0.2);
+}
+p {
+    line-height: 1.4;
+}
+
+a {
+    outline: none;
+    text-decoration: none;
+    padding: 2px 1px 0;
+}
+.socials{
+    margin: 2rem;
+    text-align: center;
+}
+.socials ul{
+    list-style: none;
+}
+.socials a{
+    margin: 1rem;
+    text-decoration: none;
+    color: black;
+
+}
+.copyright{
+    height: 100%;
+    color: black;
+    text-align:center;
+}
